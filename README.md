@@ -1,4 +1,3 @@
-![logo10](https://user-images.githubusercontent.com/76046065/206905446-e0addf98-c603-4b04-ba48-4f849a55d782.png)
 
 Glimpse Notes helps you to create, organise and save your notes
 effortlessly across all platforms.
